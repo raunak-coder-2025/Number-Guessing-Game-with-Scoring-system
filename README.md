@@ -30,6 +30,10 @@ This is a fun and interactive number guessing game built using Python. The compu
 
 ## Author
 Raunak Raj
-Github: raunak-coder-2025
+GitHub: [raunak-coder-2025](https://github.com/raunak-coder-2025)
 ```bash
 python number_guess.py
+
+## Author
+Raunak Raj
+GitHub: [raunak-coder-2025](https://github.com/raunak-coder-2025)
