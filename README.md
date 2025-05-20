@@ -27,13 +27,11 @@ This is a fun and interactive number guessing game built using Python. The compu
 
 ## Screenshot
 ! Game screenshot `screenshot.jpg`
+Download this file to get screenshot of  the game
 
 ## Author
 Raunak Raj
 GitHub: [raunak-coder-2025](https://github.com/raunak-coder-2025)
+
 ```bash
 python number_guess.py
-
-## Author
-Raunak Raj
-GitHub: [raunak-coder-2025](https://github.com/raunak-coder-2025)
