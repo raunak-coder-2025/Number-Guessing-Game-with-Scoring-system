@@ -29,6 +29,7 @@ This is a fun and interactive number guessing game built using Python. The compu
 ! Game screenshot `screenshot.jpg`
 
 ## Author
-
+Raunak Raj
+Github: raunak-coder-2025
 ```bash
 python number_guess.py
