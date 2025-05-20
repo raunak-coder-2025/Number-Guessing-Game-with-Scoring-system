@@ -26,7 +26,7 @@ This is a fun and interactive number guessing game built using Python. The compu
 3. Open a terminal or command prompt and run:
 
 ## Screenshot
-! Game screenshot screenshot.jpg
+! Game screenshot `screenshot.jpg`
 
 ## Author
 
